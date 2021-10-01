@@ -13,3 +13,5 @@ To get it WORK, find all the "TODO"s tags in the code that marks all the areas t
 ALERT: 
 This code is not fully tested, talking about schedules and persistent DATA saved. 
 This code doesn´t have UNIT TESTS yet
+
+Use it under MAIN BRANCH
