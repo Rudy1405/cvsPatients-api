@@ -31,6 +31,7 @@ function getData(req,res){
                 createPatient(patientInfo,res)
             });
             //res.send(results)
+            //you can see the results on log or res
         })
 }
 
